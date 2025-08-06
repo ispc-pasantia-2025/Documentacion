@@ -65,7 +65,7 @@ Se acordó utilizar **Scrum**, una metodología ágil basada en:
 
 - 🌐 Sitio web actual de DGES: [https://dges-cba.edu.ar](https://dges-cba.edu.ar)
 - 📄 [Wiki del proyecto](../../wiki)
-- 🧰 Herramientas: WordPress, GitHub, Figma, Trello
+- 🧰 Herramientas: WordPress, GitHub, Miro, Whimsical, Drive, Discord 
 
 ---
 
